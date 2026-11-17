@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shubham Digital Studio</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <!-- Header / Navbar -->
+    <header>
+        <div class="logo">Shubham Digital Studio</div>
+        <nav>
+            <a href="#services">सेवाएं</a>
+            <a href="#gallery">गैलरी</a>
+            <a href="#contact">संपर्क</a>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <h1>Capturing Your Special Moments</h1>
+        <p>वेडिंग फोटोग्राफी, सिनेमैटिक वीडियोग्राफी, प्री-वेडिंग शूट और सभी प्रकार के इवेंट्स के लिए संपर्क करें।</p>
+        <a href="https://wa.me/919999999999" class="whatsapp-btn" target="_blank">WhatsApp पर चैट करें</a>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services" class="services">
+        <h2>हमारी सेवाएं</h2>
+        <div class="service-grid">
+            <div class="card">
+                <h3>Wedding Photography</h3>
+                <p>शादी और रिसेप्शन के यादगार पलों की प्रीमियम फोटोग्राफी।</p>
+            </div>
+            <div class="card">
+                <h3>Cinematic Videography</h3>
+                <p>हाई-क्वालिटी सिनेमैटिक वीडियो और शॉर्ट रील्स एडिटिंग।</p>
+            </div>
+            <div class="card">
+                <h3>Pre-Wedding Shoots</h3>
+                <p>रोमांटिक और खूबसूरत लोकेशंस पर आकर्षक प्री-वेडिंग शूट।</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <h2>हमसे संपर्क करें</h2>
+        <p>सुजानगढ़, राजस्थान</p>
+        <p>मोबाइल / व्हाट्सएप: +91 99999-99999</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 Shubham Digital Studio. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
